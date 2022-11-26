@@ -34,4 +34,3 @@ C:\Users\ricar\OneDrive\REPOSITORIES\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreap
 C:\Users\ricar\OneDrive\REPOSITORIES\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.Views.pdb
 C:\Users\ricar\OneDrive\REPOSITORIES\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 C:\Users\ricar\OneDrive\REPOSITORIES\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
-C:\Users\ricar\OneDrive\REPOSITORIES\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
